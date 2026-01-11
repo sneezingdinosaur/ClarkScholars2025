@@ -7,3 +7,6 @@ per_fold_metrics.csv
 
 # Exclude trainDL folder
 trainDL/
+
+# Exclude DataFiles folder
+DataFiles/
