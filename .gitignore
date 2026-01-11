@@ -10,3 +10,7 @@ trainDL/
 
 # Exclude DataFiles folder
 DataFiles/
+
+# Exclude .history and .claude folders
+.history/
+.claude/
