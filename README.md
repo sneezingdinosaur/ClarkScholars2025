@@ -2,7 +2,7 @@
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/DiaMetrics](https://github.com/sneezingdinosaur/ClarkScholars2025.git
+git clone https://github.com/sneezingdinosaur/ClarkScholars2025.git
 cd DiaMetrics
 ```
 
@@ -52,3 +52,4 @@ MIT License
 
 - Research conducted as part of Clark Scholars Program 2025
 - Models trained on AIREADI health data
+
