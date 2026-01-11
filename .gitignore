@@ -1,0 +1,9 @@
+# Exclude all participants.tsv files
+**/participants.tsv
+participants.tsv
+
+# Exclude per_fold_metrics.csv
+per_fold_metrics.csv
+
+# Exclude trainDL folder
+trainDL/
