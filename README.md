@@ -10,6 +10,7 @@ cd DiaMetrics
 ```bash
 pip install -r requirements.txt
 ```
+3. Acquire the AIREADI dataset and parse it as outlined in the paper.
 
 
 ### Training Individual Modalities
@@ -52,4 +53,5 @@ MIT License
 
 - Research conducted as part of Clark Scholars Program 2025
 - Models trained on AIREADI health data
+
 
